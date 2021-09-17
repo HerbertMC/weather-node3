@@ -1,7 +1,3 @@
-console.log('Desde Public js')
-
-
-
 const weatherForm = document.querySelector('form')
 const searchElement = document.querySelector('input')
 const mess1 = document.querySelector('#mess-1')
